@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<OSCInputGroup>
+  <oscMessage>/wek/inputs</oscMessage>
+  <numInputs>12</numInputs>
+  <groupName>Inputs</groupName>
+  <inputNames>
+    <string>bass_x</string>
+    <string>bass_y</string>
+    <string>bass_vel_x</string>
+    <string>bass_vel_y</string>
+    <string>drone_x</string>
+    <string>drone_y</string>
+    <string>drone_vel_x</string>
+    <string>drone_vel_y</string>
+    <string>drums_x</string>
+    <string>drums_y</string>
+    <string>drums_vel_x</string>
+    <string>drums_vel_y</string>
+  </inputNames>
+</OSCInputGroup>
