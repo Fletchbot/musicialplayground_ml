@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MachineLearningGridController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\InstrumentManagerScript.cs" Line="80" Column="24" />
+      <File FileName="Assets\Scripts\PersonManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TrackedSpaceScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TrackedPerson.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TrainingCube.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TrackTrainCube.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HelmManagerScript.cs" Line="576" Column="77" />
+      <File FileName="Assets\TrackingCubeController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MachineLearningGridController.cs" Line="98" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
